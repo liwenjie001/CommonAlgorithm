@@ -25,7 +25,6 @@ public class BubbleSort {
         System.out.println("排序之后的顺序为：");
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]+",");
-
         }
     }
 }
